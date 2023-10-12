@@ -1,5 +1,5 @@
 <?php
 echo "test23";
-$personal_token = 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;
+$personal_token = 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;
 echo "I can push code now";
 ?>
